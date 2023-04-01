@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="birth_day_message">Happy Birtday Mustinsar!</string>
+    <string name="location">Pakistan</string>
+</resources>
